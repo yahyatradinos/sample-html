@@ -1,5 +1,5 @@
 name: sample-html
-static_sites:
+services:
 - environment_slug: php
   github:
     branch: main
