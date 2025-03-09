@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My PHP Static Site</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -14,10 +13,8 @@
 
     <section>
         <p>This is a basic PHP site with static assets.</p>
-        <img src="assets/logo.png" alt="Logo">
     </section>
 
-    <script src="script.js"></script>
 
 </body>
 </html>
